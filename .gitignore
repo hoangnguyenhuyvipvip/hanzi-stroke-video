@@ -1,0 +1,14 @@
+# Sample/downloaded videos
+snaptik.com.lc*
+
+# Generated output videos
+*_stroke.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Unrelated files from other projects
+koinhub/
+Auto Post X*
+TikTok Auto Upload*
